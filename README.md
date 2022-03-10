@@ -1,2 +1,3 @@
-# site-ducks
- Projeto Web - Ducks Gaming
+# Duck's Gaming
+
+Projeto Web - Ducks Gaming
