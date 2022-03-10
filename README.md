@@ -1,3 +1,3 @@
 # Duck's Gaming
 
-Projeto Web - Ducks Gaming
+Projeto Web - Duck's Gaming
