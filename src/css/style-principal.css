@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+:root {
+  --amarelo: #F2B705;
+  --laranja: #F28705;
+  --laranja-escuro: #BF5B04;
+  --azul-escuro: #012340;
+  --azul-claro: #35748C;
+
+  --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+  --fonte-anton: 'Anton', sans-serif;
+  --fonte-rammetto: 'Rammetto One', cursive;
+  --fonte-black-han-sans: 'Black Han Sans', sans-serif;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+body {
+  background-image: linear-gradient(var(--azul-escuro), var(--azul-claro));
+  font-family: var(--fonte-padrao);
+}
+
+.cabecalho {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 25px;
+}
+
+.cabecalho-imagem {
+  height: 60px;
+}
+
+.cabecalho-menu {
+  display: flex;
+  gap: 50px
+}
+
+.cabecalho-menu-item {
+  font-family: var(--fonte-anton);
+  color: white;
+  font-weight: 400px;
+  font-size: 18px;
+}
+
+.conteudo {
+  margin-bottom: 50px;
+  border-top: 0.2px solid white;
+}
+
+.conteudo-principal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.conteudo-principal-escrito {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.conteudo-principal-escrito-titulo {
+  font-family: var(--fonte-rammetto);
+  font-weight: 400;
+  font-size: 64px;
+  color: white
+}
+
+.conteudo-principal-escrito-subtitulo {
+  font-family: var(--fonte-black-han-sans);
+  font-weight: 400;
+  font-size: 24px;
+  color: white
+}
+
+.conteudo-principal-imagem {
+  height: 430px;
+}
