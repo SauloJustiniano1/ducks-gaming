@@ -24,8 +24,10 @@
 }
 
 body {
-  background-image: linear-gradient(to bottom, var(--azul-escuro), var(--azul-claro));
+  background-image: linear-gradient(to bottom, var(--azul-escuro) ,var(--azul-claro));
   font-family: var(--fonte-padrao);
+  margin: 0px;
+  padding: 0px;
 }
 
 .cabecalho {
