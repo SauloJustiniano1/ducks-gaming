@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+@font-face {
+  font-family: 'Counter-Strike';
+  src: url('/font/cs_regular.ttf') format('opentype');
+  font-weight: normal;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
@@ -17,6 +23,7 @@
   --fonte-rammetto: 'Rammetto One', cursive;
   --fonte-black-han-sans: 'Black Han Sans', sans-serif;
   --fonte-roboto: 'Roboto', sans-serif;
+  --fonte-csgo: 'Counter-Strike', sans-serif;
 }
 
 * {
