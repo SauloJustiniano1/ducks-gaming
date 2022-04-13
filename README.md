@@ -14,3 +14,4 @@ Esse projeto ainda esta sendo desenvolvido no intuito de aprimorar minhas habili
 **🛠️Ferramentas:**
 * Visual Studio Code
 * GitHub Desktop
+* Git
