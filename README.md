@@ -7,13 +7,6 @@
 ## 💻 Projeto
 Esse projeto ainda esta sendo desenvolvido no intuito de aprimorar minhas habilidades de programador web. O protótipo foi desenvolvido com inspiração em outros projetos semelhantes.
 
-## Ícones
-
-* 📦Nova Funcionalidade
-* 📤Atualização
-* 🐞Correção de Bug
-* 🚩Realese
-
 **📖Linguagues:**
 * HTML5
 * CSS3
@@ -22,3 +15,10 @@ Esse projeto ainda esta sendo desenvolvido no intuito de aprimorar minhas habili
 * Visual Studio Code
 * GitHub Desktop
 * Git
+
+## Ícones
+
+* 📦Nova Funcionalidade
+* 📤Atualização
+* 🐞Correção de Bug
+* 🚩Realese
