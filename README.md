@@ -16,7 +16,7 @@ Esse projeto ainda esta sendo desenvolvido no intuito de aprimorar minhas habili
 * GitHub Desktop
 * Git
 
-## Ícones
+## 💡 Ícones
 
 * 📦Nova Funcionalidade
 * 📤Atualização
