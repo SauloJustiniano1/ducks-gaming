@@ -39,4 +39,4 @@ Esse projeto ainda esta sendo desenvolvido no intuito de aprimorar minhas habili
 - 📦 Create - _Funcionalidades novas_
 - 📤 Update - _Atualizações de códigos_
 - 🐞 Bug - _Correções de Bugs_
-- 🚩 Realese - _Versaões do projeto_
+- 🚩 Realese - _Versões do projeto_
