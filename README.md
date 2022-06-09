@@ -2,7 +2,7 @@
   Duck's Gaming
 </h1>
 
-<section align="center">
+<div align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saulojustiniano1/ducks-gaming.svg" />
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/saulojustiniano1/ducks-gaming.svg" />
@@ -16,11 +16,11 @@
   <a href="https://github.com/saulojustiniano1/ducks-gaming/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/saulojustiniano1/ducks-gaming.svg" />
   </a>
-</section>
+</div>
 
-<section align="center">
+<div align="center">
   <img src=".github/preview.png" width="100%"/>
-</section>
+</div>
 
 ## 💻 Projeto
 
