@@ -31,8 +31,7 @@ Esse projeto ainda esta sendo desenvolvido no intuito de aprimorar minhas habili
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Visual Studio Code](https://code.visualstudio.com)
-- [GitHub Desktop](https://desktop.github.com)
-- [Git](https://git-scm.com)
+- [GitHub Desktop](https://desktop.github.com), [Git](https://git-scm.com)
 
 **💡Commit:**
 
